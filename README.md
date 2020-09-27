@@ -1,4 +1,4 @@
-# programmers, 코딩테스트 연습
+# programmers, 코딩테스트 연습(C++)
 
 ### Level 1
 * 체육복 풀이
